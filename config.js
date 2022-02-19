@@ -2,8 +2,8 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/FrluVyY5kBRIhY6yKfH4DI']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6288229683561': { // put your number here
-    name: 'Owner Lord Botz (Creator Botz)',
+  '6287781350596': { // put your number here
+    name: 'Owner Vizo Botz (Creator Botz)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -20,8 +20,8 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287708773367': {
-    name: 'Lord Botz',
+  '6285730321970': {
+    name: 'Vizo Botz',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Lord Botz'
-global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©AmmarBN '
+global.packname = 'Copyright Vizo Botz'
+global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©IzaOfc '
 
 global.multiplier = 39 // The higher, The harder levelup
 
